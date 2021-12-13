@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, my name's Caroline 👋
 
+- 🔭 I’m currently working on JS algorithms
+- 🌱 I’m currently learning with App Academy
+- 💞 I’m looking to collaborate on JS based projects
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun facts: I love dancing, baking bread, and enjoying the great outdoors🌲
 <!--
 **Chocoloco123/Chocoloco123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chocoloco123)](https://github.com/Chocoloco123/github-readme-stats)
