@@ -1,6 +1,6 @@
 ### Hi, my name's Caroline 👋
 
-- 🔭 I’m currently working on JS algorithms
+- 🔭 I’m currently working on learning Python
 - 🌱 I’m currently learning with App Academy
 - 💞 I’m looking to collaborate on JS based projects
 - 😄 Pronouns: she/her/hers
