@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 -->
 
 [![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chocoloco123)](https://github.com/Chocoloco123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chocoloco123&layout=compact)](https://github.com/Chocoloco1232/github-readme-stats)
