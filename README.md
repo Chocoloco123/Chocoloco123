@@ -1,6 +1,6 @@
 ### Hi, my name's Caroline 👋
 
-<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=Chocoloco123.Chocoloco1232) -->
+![](https://visitor-badge.laobi.icu/badge?page_id=Chocoloco123.Chocoloco1232)
 [![Github](https://img.shields.io/github/followers/Chocoloco123?label=Follow&style=social)](https://github.com/Chocoloco123)
 <img align="right" alt="GIF" src="https://res.cloudinary.com/dsz4sha80/image/upload/v1641515896/CuteComputerGif_mvvnyi.gif" width="300" height="200" />
 
