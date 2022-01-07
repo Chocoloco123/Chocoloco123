@@ -23,11 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chocoloco123&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chocoloco123&theme=radical)](https://git.io/streak-stats)
-<!-- [![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chocoloco123)](https://github.com/Chocoloco123/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chocoloco123&layout=compact&theme=radical)](https://github.com/Chocoloco1232/github-readme-stats)
+![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chocoloco123&show_icons=true&theme=radical)
 
 ## 🧰 Languages and Tools:
 <p align="left">
@@ -45,4 +42,9 @@ Here are some ideas to get you started:
 <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLAlchemy" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+<!-- [![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chocoloco123)](https://github.com/Chocoloco123/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chocoloco123&layout=compact&theme=radical)](https://github.com/Chocoloco1232/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chocoloco123&theme=radical)](https://git.io/streak-stats)
 
