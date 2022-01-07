@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://camo.githubusercontent.com/2eb688a747805c9acd144faf728c8a30f86fc4ca5fb39e6528232f0372151364/68747470733a2f2f63646e2e7261776769742e636f6d2f7075676a732f7075672d6c6f676f2f656563343336636565386664396431373236643738333963626539396431663639343639326330632f5356472f7075672d66696e616c2d6c6f676f2d5f2d636f6c6f75722d3132382e737667" alt="Pug" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLAlchemy" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
 </p>
 
