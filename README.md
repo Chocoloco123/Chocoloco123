@@ -1,5 +1,7 @@
 ### Hi, my name's Caroline 👋
 
+<img align="right" alt="GIF" src="https://res.cloudinary.com/dsz4sha80/image/upload/v1641513615/CuteComputerGif_nop84h.gif" width="400" height="300" />
+
 - 🔭 I’m currently working on learning Python
 - 🌱 I’m currently learning with App Academy
 - 💞 I’m looking to collaborate on JS based projects
