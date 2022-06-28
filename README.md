@@ -4,8 +4,8 @@
 [![Github](https://img.shields.io/github/followers/Chocoloco123?label=Follow&style=social)](https://github.com/Chocoloco123)
 <img align="right" alt="GIF" src="https://res.cloudinary.com/dsz4sha80/image/upload/v1641515896/CuteComputerGif_mvvnyi.gif" width="300" height="200" />
 
-- 🔭 I’m currently working on learning Python
-- 🌱 I’m currently learning with App Academy
+- 🔭 I’m currently working on learning Webpack
+- 🌱 I’m currently a Junior Software Developer with KQED
 - 💞 I’m looking to collaborate on JS based projects
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun facts: I love dancing, baking bread, and enjoying the great outdoors🌲
