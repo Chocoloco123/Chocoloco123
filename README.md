@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://res.cloudinary.com/dsz4sha80/image/upload/v1641515896/CuteComputerGif_mvvnyi.gif" width="300" height="200" />
 
 - 🔭 I’m currently working on learning server side rendering (SSR)
-- 🌱 I’m currently a Junior Software Developer at KQED
+- 🌱 I’m currently a Frontend Software Developer at KQED
 - 💞 I’m looking to collaborate on JS based projects
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun facts: I love dancing, baking bread, and enjoying the great outdoors🌲
