@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chocoloco123&show_icons=true&theme=radical)
+-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chocoloco123&theme=radical)](https://git.io/streak-stats)
 
