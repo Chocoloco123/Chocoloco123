@@ -4,11 +4,11 @@
 [![Github](https://img.shields.io/github/followers/Chocoloco123?label=Follow&style=social)](https://github.com/Chocoloco123)
 <img align="right" alt="GIF" src="https://res.cloudinary.com/dsz4sha80/image/upload/v1641515896/CuteComputerGif_mvvnyi.gif" width="300" height="200" />
 
-- 🔭 I’m currently working on learning Java
+- 🔭 I’m currently working on learning Java and AI/ML tooling
 - 🌱 I’m currently a Fullstack Software Engineer at KQED
-- 💞 I’m looking to collaborate on JS based projects
+- 💞 I’m looking to collaborate fullstack projects
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun facts: I love dancing, baking bread, and enjoying the great outdoors🌲
+- ⚡ Fun facts: I love dancing, cheering at a Golden State Valkyries game, and enjoying the great outdoors🌲
 <!--
 **Chocoloco123/Chocoloco123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
